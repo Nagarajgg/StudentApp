@@ -1,3 +1,3 @@
 # StudentApp
 This is My Java Project
-Author -Nagaraj
+Author -Nagaraj G
